@@ -1,7 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=21&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=HUFS+BME+Ryu+Changmin%2C;Welcome+to+my+Github)](https://git.io/typing-svg)
+### Hi ! My name is Changmin Ryu !
+### I am currently studying Biomedical Engineering at HUFS.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
