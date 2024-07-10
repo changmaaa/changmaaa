@@ -20,6 +20,24 @@
 
 </div>
 
+<h3 align="center">
+  <br/>
+  Introduce about me
+  <br/>
+</h3>
+
+<p align="center">
+  Hi!
+  <br/><br/>
+  I am currently studying Biomedical Engineering at HUFS 🦉
+  <br/><br/>
+  I am working as an Intern Researcher at MILAB, Yonsei University 🦅
+  <br/><br/><br/>
+  ⬇️ If you’re interested in my research, please click the Notion badge to check out my portfolio. ⬇️
+  <br/>
+</p>
+
+
 <h2 align="center">
 💻 Programming Skills 💻
 </h2>
@@ -68,6 +86,9 @@
 
 <a href="mailto:loves010104@naver.com">
    <img src="https://img.shields.io/badge/Naver Mail-47A248?style=flat-square&logo=Naver&logoColor=white&link=loves010104@naver.com"/>
+</a>
+<a href="https://lava-volleyball-8a1.notion.site/Hi-I-m-Changmin-Ryu-c04c9d77a1194faa9eb87926f5cfe6ac">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=discord&logoColor=white" />
