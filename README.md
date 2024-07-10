@@ -33,7 +33,7 @@
   <br/><br/>
   I am working as an Intern Researcher at MILAB, Yonsei University 🦅
   <br/><br/><br/>
-  ⬇️ If you’re interested in my research, please click the Notion badge to check out my portfolio. ⬇️
+  ⬇️ If you’re interested in my research, please click the 👉 Notion 👈 badge to check out my portfolio. ⬇️
   <br/>
 </p>
 
