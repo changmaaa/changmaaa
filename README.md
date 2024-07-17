@@ -31,7 +31,7 @@
   <br/><br/>
   I am currently studying Biomedical Engineering at HUFS 🦉
   <br/><br/>
-  I am working as an Undergraduated Intern at MILAB, Yonsei University 🦅
+  I am working as an Undergraduate Intern at MILAB, Yonsei University 🦅
   <br/><br/><br/>
   ⬇️ If you’re interested in my research, please click the <a href="https://changmin-portfolio.notion.site/Hi-I-m-Changmin-Ryu-c04c9d77a1194faa9eb87926f5cfe6ac">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
