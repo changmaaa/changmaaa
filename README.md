@@ -12,11 +12,12 @@
 <div align="center">
 
 ## 🚀 About My Github 🚀
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=changmaaa&show_icons=true&bg_color=00000000)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=changmaaa&theme=graywhite)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changmaaa&layout=compact)](https://github.com/changmaaa/github-readme-stats)
+-->
 
 </div>
 
